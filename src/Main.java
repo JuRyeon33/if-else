@@ -8,7 +8,7 @@ public class Main {
             System.out.println("number는 0보다 큽니다.");
         }
 
-        else if (number <= 0){
+        else {
             System.out.println("number는 0이거나 0보다 작습니다.");
         }
 
